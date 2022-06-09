@@ -258,7 +258,7 @@ padding: 100px 0;
 
 .sub-header {
     overflow-x: hidden;
-    height: 70vh;
+    height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(https://thehill.com/wp-content/uploads/sites/2/2022/03/ca_grad_diploma.jpg?strip=1);
     background-position: center;
